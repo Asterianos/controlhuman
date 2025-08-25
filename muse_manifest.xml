@@ -1,0 +1,721 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.controlhuman.com" resolutions="1x" timestamp="1549941678311">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="115924516" ref="phone>servicios-control-human:phone>gracias:phone>aviso-de-privacidad:phone>contacto-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>nosotros-control-human:phone>index:phone>nuestros-servicios-control-human"/>
+      <file name="servicios-control-human.css" crc="111138118" ref="phone>servicios-control-human"/>
+      <file name="gracias.css" crc="427417286" ref="phone>gracias"/>
+      <file name="aviso-de-privacidad.css" crc="3956450008" ref="phone>aviso-de-privacidad"/>
+      <file name="contacto-control-human.css" crc="26518945" ref="phone>contacto-control-human"/>
+      <file name="evaluaciones-poligraficas-control-human-copia.css" crc="508073613" ref="phone>evaluaciones-poligraficas-control-human-copia"/>
+      <file name="clientes-control-human.css" crc="3769575732" ref="phone>clientes-control-human"/>
+      <file name="nosotros-control-human.css" crc="503880005" ref="phone>nosotros-control-human"/>
+      <file name="iefonts_nosotros-control-human.css" crc="4249224029" ref="phone>nosotros-control-human"/>
+      <file name="index.css" crc="3866184723" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="144205121" ref="phone>index"/>
+      <file name="nuestros-servicios-control-human.css" crc="4235465486" ref="phone>nuestros-servicios-control-human"/>
+      <file name="iefonts_nuestros-servicios-control-human.css" crc="174623008" ref="phone>nuestros-servicios-control-human"/>
+      <file name="iefonts_evaluaciones-poligraficas-control-human-copia.css" crc="4238351724" ref="phone>evaluaciones-poligraficas-control-human-copia"/>
+      <file name="iefonts_servicios-control-human.css" crc="458756476" ref="phone>servicios-control-human"/>
+      <file name="iefonts_contacto-control-human.css" crc="328258086" ref="phone>contacto-control-human"/>
+      <file name="iefonts_aviso-de-privacidad.css" crc="3955287292" ref="phone>aviso-de-privacidad"/>
+      <file name="iefonts_clientes-control-human.css" crc="184504815" ref="phone>clientes-control-human"/>
+      <file name="iefonts_gracias.css" crc="488075894" ref="phone>gracias"/>
+    </folder>
+    <file name="index.html" crc="252517528" seo="true" mt="1549940322073" redirect="true"/>
+    <file name="nosotros-control-human.html" crc="3759892909" seo="true" mt="1549938164435" redirect="true"/>
+    <file name="servicios-control-human.html" crc="3804167901" seo="true" mt="1549938164435" redirect="true"/>
+    <file name="evaluaciones-poligraficas-control-human-copia.html" crc="3768265114" seo="true" mt="1549938164435" redirect="true"/>
+    <file name="clientes-control-human.html" crc="3794810141" seo="true" mt="1549938557276" redirect="true"/>
+    <file name="aviso-de-privacidad.html" crc="178470756" seo="true" mt="1549938164435" redirect="true"/>
+    <file name="contacto-control-human.html" crc="35286827" seo="true" mt="1549941643720" redirect="true"/>
+    <file name="gracias.html" crc="278459297" seo="true" mt="1549938164435" redirect="true"/>
+    <file name="nuestros-servicios-control-human.html" crc="202832346" seo="true" mt="1549938164435" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3966966488"/>
+    <file name="master_a-p_g_-maestra.css" crc="114749274" ref="index:servicios-control-human:evaluaciones-poligraficas-control-human-copia:clientes-control-human:gracias:contacto-control-human:nosotros-control-human:aviso-de-privacidad"/>
+    <file name="index.css" crc="375637852" ref="index"/>
+    <file name="iefonts_index.css" crc="486144172" ref="index"/>
+    <file name="servicios-control-human.css" crc="309753741" ref="servicios-control-human"/>
+    <file name="iefonts_servicios-control-human.css" crc="190041564" ref="servicios-control-human"/>
+    <file name="evaluaciones-poligraficas-control-human-copia.css" crc="486628343" ref="evaluaciones-poligraficas-control-human-copia"/>
+    <file name="iefonts_evaluaciones-poligraficas-control-human-copia.css" crc="362080820" ref="evaluaciones-poligraficas-control-human-copia"/>
+    <file name="clientes-control-human.css" crc="267933501" ref="clientes-control-human"/>
+    <file name="iefonts_clientes-control-human.css" crc="3911999340" ref="clientes-control-human"/>
+    <file name="gracias.css" crc="98661700" ref="gracias"/>
+    <file name="iefonts_gracias.css" crc="31115892" ref="gracias"/>
+    <file name="contacto-control-human.css" crc="431347171" ref="contacto-control-human"/>
+    <file name="iefonts_contacto-control-human.css" crc="3816071057" ref="contacto-control-human"/>
+    <file name="nosotros-control-human.css" crc="3821555279" ref="nosotros-control-human"/>
+    <file name="iefonts_nosotros-control-human.css" crc="49845435" ref="nosotros-control-human"/>
+    <file name="aviso-de-privacidad.css" crc="45938362" ref="aviso-de-privacidad"/>
+    <file name="iefonts_aviso-de-privacidad.css" crc="286315922" ref="aviso-de-privacidad"/>
+  </folder>
+  <folder name="fonts">
+    <file name="poppins-regular.woff" crc="208544359"/>
+    <file name="poppins-regular.eot" crc="95926466"/>
+    <file name="poppins-regular.svg" crc="4133995031"/>
+    <file name="poppins-light.woff" crc="511593350"/>
+    <file name="poppins-light.eot" crc="1164784"/>
+    <file name="poppins-light.svg" crc="80826119"/>
+    <file name="poppins-medium.woff" crc="3826209911"/>
+    <file name="poppins-medium.eot" crc="4159688804"/>
+    <file name="poppins-medium.svg" crc="487208257"/>
+    <file name="poppins-bold.woff" crc="3888473852"/>
+    <file name="poppins-bold.eot" crc="4006334543"/>
+    <file name="poppins-bold.svg" crc="64239119"/>
+    <file name="poppins-extrabold.woff" crc="4006897515"/>
+    <file name="poppins-extrabold.eot" crc="240390722"/>
+    <file name="poppins-extrabold.svg" crc="3789854621"/>
+    <file name="poppins-medium.woff" crc="3826209911"/>
+    <file name="poppins-medium.eot" crc="4159688804"/>
+    <file name="poppins-medium.svg" crc="487208257"/>
+    <file name="poppins-light.woff" crc="511593350"/>
+    <file name="poppins-light.eot" crc="1164784"/>
+    <file name="poppins-light.svg" crc="80826119"/>
+    <file name="poppins-extrabold.woff" crc="4006897515"/>
+    <file name="poppins-extrabold.eot" crc="240390722"/>
+    <file name="poppins-extrabold.svg" crc="3789854621"/>
+    <file name="poppins-bold.woff" crc="3888473852"/>
+    <file name="poppins-bold.eot" crc="4006334543"/>
+    <file name="poppins-bold.svg" crc="64239119"/>
+    <file name="poppins-regular.woff" crc="208544359"/>
+    <file name="poppins-regular.eot" crc="95926466"/>
+    <file name="poppins-regular.svg" crc="4133995031"/>
+    <file name="poppins-medium.woff" crc="3826209911"/>
+    <file name="poppins-medium.eot" crc="4159688804"/>
+    <file name="poppins-medium.svg" crc="487208257"/>
+    <file name="poppins-light.woff" crc="511593350"/>
+    <file name="poppins-light.eot" crc="1164784"/>
+    <file name="poppins-light.svg" crc="80826119"/>
+    <file name="poppins-extrabold.woff" crc="4006897515"/>
+    <file name="poppins-extrabold.eot" crc="240390722"/>
+    <file name="poppins-extrabold.svg" crc="3789854621"/>
+    <file name="poppins-bold.woff" crc="3888473852"/>
+    <file name="poppins-bold.eot" crc="4006334543"/>
+    <file name="poppins-bold.svg" crc="64239119"/>
+    <file name="poppins-regular.woff" crc="208544359"/>
+    <file name="poppins-regular.eot" crc="95926466"/>
+    <file name="poppins-regular.svg" crc="4133995031"/>
+    <file name="poppins-medium.woff" crc="3826209911"/>
+    <file name="poppins-medium.eot" crc="4159688804"/>
+    <file name="poppins-medium.svg" crc="487208257"/>
+    <file name="poppins-regular.woff" crc="208544359"/>
+    <file name="poppins-regular.eot" crc="95926466"/>
+    <file name="poppins-regular.svg" crc="4133995031"/>
+    <file name="poppins-bold.woff" crc="3888473852"/>
+    <file name="poppins-bold.eot" crc="4006334543"/>
+    <file name="poppins-bold.svg" crc="64239119"/>
+    <file name="poppins-light.woff" crc="511593350"/>
+    <file name="poppins-light.eot" crc="1164784"/>
+    <file name="poppins-light.svg" crc="80826119"/>
+    <file name="poppins-extrabold.woff" crc="4006897515"/>
+    <file name="poppins-extrabold.eot" crc="240390722"/>
+    <file name="poppins-extrabold.svg" crc="3789854621"/>
+    <file name="poppins-black.woff" crc="104676441"/>
+    <file name="poppins-black.eot" crc="153466429"/>
+    <file name="poppins-black.svg" crc="4083594087"/>
+    <file name="poppins-regular.woff" crc="208544359"/>
+    <file name="poppins-regular.eot" crc="95926466"/>
+    <file name="poppins-regular.svg" crc="4133995031"/>
+    <file name="poppins-medium.woff" crc="3826209911"/>
+    <file name="poppins-medium.eot" crc="4159688804"/>
+    <file name="poppins-medium.svg" crc="487208257"/>
+    <file name="poppins-bold.woff" crc="3888473852"/>
+    <file name="poppins-bold.eot" crc="4006334543"/>
+    <file name="poppins-bold.svg" crc="64239119"/>
+    <file name="poppins-light.woff" crc="511593350"/>
+    <file name="poppins-light.eot" crc="1164784"/>
+    <file name="poppins-light.svg" crc="80826119"/>
+    <file name="poppins-extrabold.woff" crc="4006897515"/>
+    <file name="poppins-extrabold.eot" crc="240390722"/>
+    <file name="poppins-extrabold.svg" crc="3789854621"/>
+    <file name="poppins-italic.woff" crc="443767872"/>
+    <file name="poppins-italic.eot" crc="3875436160"/>
+    <file name="poppins-italic.svg" crc="3778276145"/>
+    <file name="poppins-light.woff" crc="511593350"/>
+    <file name="poppins-light.eot" crc="1164784"/>
+    <file name="poppins-light.svg" crc="80826119"/>
+    <file name="poppins-medium.woff" crc="3826209911"/>
+    <file name="poppins-medium.eot" crc="4159688804"/>
+    <file name="poppins-medium.svg" crc="487208257"/>
+    <file name="poppins-extrabold.woff" crc="4006897515"/>
+    <file name="poppins-extrabold.eot" crc="240390722"/>
+    <file name="poppins-extrabold.svg" crc="3789854621"/>
+    <file name="poppins-bold.woff" crc="3888473852"/>
+    <file name="poppins-bold.eot" crc="4006334543"/>
+    <file name="poppins-bold.svg" crc="64239119"/>
+    <file name="poppins-regular.woff" crc="208544359"/>
+    <file name="poppins-regular.eot" crc="95926466"/>
+    <file name="poppins-regular.svg" crc="4133995031"/>
+    <file name="poppins-extrabold.woff" crc="4006897515"/>
+    <file name="poppins-extrabold.eot" crc="240390722"/>
+    <file name="poppins-extrabold.svg" crc="3789854621"/>
+    <file name="poppins-light.woff" crc="511593350"/>
+    <file name="poppins-light.eot" crc="1164784"/>
+    <file name="poppins-light.svg" crc="80826119"/>
+    <file name="poppins-medium.woff" crc="3826209911"/>
+    <file name="poppins-medium.eot" crc="4159688804"/>
+    <file name="poppins-medium.svg" crc="487208257"/>
+    <file name="poppins-regular.woff" crc="208544359"/>
+    <file name="poppins-regular.eot" crc="95926466"/>
+    <file name="poppins-regular.svg" crc="4133995031"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad:phone>index:phone>nosotros-control-human:phone>servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>aviso-de-privacidad:phone>contacto-control-human:phone>gracias:phone>nuestros-servicios-control-human"/>
+    <file name="museutils.js" crc="340535759" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad:phone>index:phone>nosotros-control-human:phone>servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>aviso-de-privacidad:phone>contacto-control-human:phone>gracias:phone>nuestros-servicios-control-human"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad:phone>index:phone>nosotros-control-human:phone>servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>aviso-de-privacidad:phone>contacto-control-human:phone>gracias:phone>nuestros-servicios-control-human"/>
+    <file name="museconfig.js" crc="310584261" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad:phone>index:phone>nosotros-control-human:phone>servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>aviso-de-privacidad:phone>contacto-control-human:phone>gracias:phone>nuestros-servicios-control-human"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad:phone>index:phone>nosotros-control-human:phone>servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>aviso-de-privacidad:phone>contacto-control-human:phone>gracias:phone>nuestros-servicios-control-human"/>
+    <file name="webpro.js" crc="4059564322" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad:phone>index:phone>nosotros-control-human:phone>servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>aviso-de-privacidad:phone>contacto-control-human:phone>gracias:phone>nuestros-servicios-control-human"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad:phone>index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:aviso-de-privacidad:phone>index:phone>evaluaciones-poligraficas-control-human-copia:phone>nuestros-servicios-control-human"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad"/>
+    <file name="require.js" crc="7928878" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad:phone>index:phone>nosotros-control-human:phone>servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>aviso-de-privacidad:phone>contacto-control-human:phone>gracias:phone>nuestros-servicios-control-human"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>contacto-control-human"/>
+    <file name="form_process.php" crc="37464564" ref="phone>contacto-control-human"/>
+    <file name="form-u3307.php" crc="403933075" ref="contacto-control-human"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index:phone>nosotros-control-human:phone>servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>aviso-de-privacidad:phone>contacto-control-human:phone>gracias:phone>nuestros-servicios-control-human"/>
+    <file name="form-u8481.php" crc="306839867" ref="phone>contacto-control-human"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>contacto-control-human"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4110009680" ref="phone>index:phone>contacto-control-human"/>
+    <file name="pleca-2-nosotros.png" crc="219848094" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide-1-control-human.png" crc="4156495360" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros-control-human:clientes-control-human:phone>index:phone>servicios-control-human:phone>clientes-control-human"/>
+    <file name="slide-2-control-human.jpg" crc="323856426" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide-3-control-human.jpg" crc="4259227949" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-arrow.png" crc="384192810" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:evaluaciones-poligraficas-control-human-copia:phone>index:phone>nosotros-control-human:phone>nuestros-servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
+    <file name="plecas-slide-u935.png" crc="75570640" ref="index"/>
+    <file name="icon-crisis-managment.jpg" crc="72818441" ref="index:nosotros-control-human:servicios-control-human">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="icon-evaluaciones-poligraficas.jpg" crc="3767138095" ref="index:nosotros-control-human:servicios-control-human">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="icon-examenes-toxicologicos.jpg" crc="446892238" ref="index:nosotros-control-human:servicios-control-human">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="icon-more-home.jpg" crc="475687250" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-control-human-head-2.png" crc="434567180" seo="true" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad">
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+    </file>
+    <file name="icon-mail-head.png" crc="4186157283" seo="true" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad">
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+    </file>
+    <file name="icon-whatsapp-head-red.png" crc="173907849" seo="true" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad">
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+    </file>
+    <file name="workspace-766045.jpg" crc="4112719560" ref="index:nosotros-control-human">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="bg-call-to-action-home-0.jpg" crc="4272431370" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-call-to-action.png" crc="272100420" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:evaluaciones-poligraficas-control-human-copia:phone>index:phone>nosotros-control-human:phone>nuestros-servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human">
+      <caption webpage="index" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="logo-control-human-footer.png" crc="3920934161" seo="true" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad">
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+    </file>
+    <file name="home_employment_subheader2.jpg" crc="5481894" ref="nosotros-control-human:contacto-control-human">
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="plecas-slide-u1953.png" crc="75570640" ref="nosotros-control-human"/>
+    <file name="home_employment_pic18.png" crc="3800997039" seo="true" ref="nosotros-control-human:phone>nosotros-control-human">
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="nosotros-control-human-1.jpg" crc="230391781" ref="nosotros-control-human:evaluaciones-poligraficas-control-human-copia">
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="icon_servicio-integral.png" crc="3881706644" ref="nosotros-control-human:servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="icon-investigaciones-privadas.png" crc="84057381" ref="nosotros-control-human:servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="icon-estudios-socioeconomicos.png" crc="489300823" ref="nosotros-control-human:servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="icon-estudios-psicologicos.png" crc="3882684219" ref="nosotros-control-human:servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="icon-risk-assessment.png" crc="426951925" ref="nosotros-control-human:servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="icon-asesoria-legal.png" crc="4202492050" ref="nosotros-control-human:servicios-control-human:clientes-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="plecas-slide-u2161.png" crc="84566855" ref="nosotros-control-human"/>
+    <file name="bg-call-to-action-home.jpg" crc="4171593984" ref="nosotros-control-human:clientes-control-human:evaluaciones-poligraficas-control-human-copia">
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="bg-servicios-u2365-fr.png" crc="3973102814" ref="servicios-control-human"/>
+    <file name="bg-crisis-managment.jpg" crc="3944364555" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-evaluaciones-poligraficas-servicios.jpg" crc="380896594" ref="servicios-control-human:evaluaciones-poligraficas-control-human-copia">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+    </file>
+    <file name="bg-investigaciones-privadas.jpg" crc="534274464" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-risk-assessment.jpg" crc="4221415467" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-call-to-action-servicios.jpg" crc="34516529" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-estudios-socioeconomicos.jpg" crc="3896744284" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-examenes-toxicologicos.jpg" crc="115448393" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="bg_asesoria_legal.jpg" crc="162350837" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-servicio-integral.jpg" crc="482472997" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="list_check.png" crc="387501296" seo="true" ref="servicios-control-human:evaluaciones-poligraficas-control-human-copia:phone>nuestros-servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia">
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-clientes-control-human.jpg" crc="169759751" ref="clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="img-clientes-control-human.jpg" crc="397733478" ref="clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-instituciones-gubernamentales-clientes.png" crc="4013785193" ref="clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-instituciones-financieras-clientes.png" crc="3901703858" ref="clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-seguridad-privada-clientes.png" crc="49646296" ref="clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-automotrices-clientes.png" crc="502273216" ref="clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-tiendas-de-autoservicios-clientes.png" crc="3870815240" ref="clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-servicios-de-mensajeria-clientes.png" crc="3991487291" ref="clientes-control-human:phone>clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-consultorias-de-recursos-humanos-clientes.png" crc="3776279314" ref="clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="workspace-766045-u3247-fr.jpg" crc="4102414529" ref="contacto-control-human"/>
+    <file name="bg_evaluaciones-poligraficas.jpg" crc="58324336" ref="evaluaciones-poligraficas-control-human-copia">
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+    </file>
+    <file name="list_check_red.png" crc="4167736392" seo="true" ref="evaluaciones-poligraficas-control-human-copia:phone>evaluaciones-poligraficas-control-human-copia">
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+    </file>
+    <file name="bg_evaluaciones-poligraficas-u4414-fr.jpg" crc="4254547023" ref="evaluaciones-poligraficas-control-human-copia"/>
+    <file name="plecas-slide-u3982.png" crc="229466180" ref="evaluaciones-poligraficas-control-human-copia"/>
+    <file name="slide-5-control-human.png" crc="345903549" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-phone-head.png" crc="412483703" seo="true" ref="index:nosotros-control-human:servicios-control-human:clientes-control-human:contacto-control-human:evaluaciones-poligraficas-control-human-copia:gracias:aviso-de-privacidad">
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+    </file>
+    <file name="bg-reclutamiento-personal-recurso-humano.jpg" crc="3926905607" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-reclutamiento-personal-recursos-humanos.png" crc="447740942" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-controles-confianza-integrales.png" crc="3929350019" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-controles-de-confianza.jpg" crc="345898479" ref="servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+    </file>
+    <file name="hammer-620011.jpg" crc="3933739250" ref="aviso-de-privacidad">
+      <caption webpage="aviso-de-privacidad" alt=""/>
+    </file>
+    <file name="icon-arrow-u5970-fr.png" crc="434599237" ref="phone>index"/>
+    <file name="pleca-home-movil-control-human.png" crc="3925514600" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-crisis-managment-m.svg" crc="4215748567" seo="true" ref="phone>index:phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-crisis-managment-m_poster_.png" crc="4256557549" ref="phone>index"/>
+    <file name="icon-evaluaciones-poligraficos-m.svg" crc="4055381053" seo="true" ref="phone>index:phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-evaluaciones-poligraficos-m_poster_.png" crc="362525366" ref="phone>index"/>
+    <file name="icon-examenes-toxicologicos-m.svg" crc="4152003950" seo="true" ref="phone>index:phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="index" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-examenes-toxicologicos-m_poster_.png" crc="181782390" ref="phone>index"/>
+    <file name="icon-plus-m.svg" crc="3928396877" ref="phone>index"/>
+    <file name="icon-plus-m_poster_u6774.png" crc="4198881789" ref="phone>index"/>
+    <file name="icon-menu-m-control-human.svg" crc="354721628" ref="phone>index:phone>contacto-control-human"/>
+    <file name="icon-menu-m-control-human_poster_u6793.png" crc="3901205657" ref="phone>index:phone>contacto-control-human"/>
+    <file name="logo-control-human-m.svg" crc="3912844956" seo="true" ref="phone>index:phone>nosotros-control-human:phone>servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>aviso-de-privacidad:phone>contacto-control-human:phone>gracias:phone>nuestros-servicios-control-human">
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+    </file>
+    <file name="logo-control-human-m_poster_.png" crc="4028342195" ref="phone>index:phone>contacto-control-human"/>
+    <file name="workspace-m-control-human.jpg" crc="3762044231" ref="phone>index:phone>nosotros-control-human:phone>contacto-control-human">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="bg-call-to-action-home-0-m.jpg" crc="4004169991" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-nosotros-m-control-human.jpg" crc="502386546" ref="phone>nosotros-control-human:phone>contacto-control-human">
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="nosotros-m-control-human-1.jpg" crc="4238002018" ref="phone>nosotros-control-human:phone>evaluaciones-poligraficas-control-human-copia">
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="bg-call-to-action-m-home.jpg" crc="383270840" ref="phone>nosotros-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human">
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+    </file>
+    <file name="icon-reclutamiento-personal-m.svg" crc="3790474844" seo="true" ref="phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-reclutamiento-personal-m_poster_.png" crc="23201188" ref="phone>servicios-control-human"/>
+    <file name="icon-servicio-integral-m.svg" crc="3959988253" seo="true" ref="phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-servicio-integral-m_poster_.png" crc="288490292" ref="phone>servicios-control-human"/>
+    <file name="icon-investigaciones-privadas-m.svg" crc="3890277043" seo="true" ref="phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-investigaciones-privadas-m_poster_.png" crc="496653798" ref="phone>servicios-control-human"/>
+    <file name="icon-estudios-socioeconomicos-m.svg" crc="3826213930" seo="true" ref="phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-estudios-socioeconomicos-m_poster_.png" crc="33040681" ref="phone>servicios-control-human"/>
+    <file name="icon-estudios-psicologicos-m.svg" crc="487974428" seo="true" ref="phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-estudios-psicologicos-m_poster_.png" crc="280318579" ref="phone>servicios-control-human"/>
+    <file name="icon-asesoria-legal-m.svg" crc="4073741402" seo="true" ref="phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-asesoria-legal-m_poster_.png" crc="525517790" ref="phone>servicios-control-human"/>
+    <file name="icon-risk-assessment-m.svg" crc="354824583" seo="true" ref="phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-risk-assessment-m_poster_.png" crc="514891741" ref="phone>servicios-control-human"/>
+    <file name="icon-controles-de-confianza-integrales-m.svg" crc="430930867" seo="true" ref="phone>servicios-control-human:phone>nuestros-servicios-control-human">
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="icon-controles-de-confianza-integrales-m_poster_.png" crc="318069238" ref="phone>servicios-control-human"/>
+    <file name="bg_evaluaciones-poligraficas-u7928-fr.jpg" crc="3930299627" ref="phone>evaluaciones-poligraficas-control-human-copia"/>
+    <file name="bg-servicios_m-u6868-fr.png" crc="4217508779" ref="phone>nuestros-servicios-control-human"/>
+    <file name="bg-crisis-managment-m.jpg" crc="3941191187" ref="phone>nuestros-servicios-control-human">
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-evaluaciones-poligraficas-servicios-m.jpg" crc="390545071" ref="phone>nuestros-servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia">
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-investigaciones-privadas-m.jpg" crc="3906907904" ref="phone>nuestros-servicios-control-human">
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-risk-assessment-m.jpg" crc="469439376" ref="phone>nuestros-servicios-control-human">
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-estudios-socioeconomicos-m.jpg" crc="393897572" ref="phone>nuestros-servicios-control-human">
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-examenes-toxicologicos-m.jpg" crc="182367372" ref="phone>nuestros-servicios-control-human">
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="bg_asesoria_legal-m.jpg" crc="4040056028" ref="phone>nuestros-servicios-control-human">
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-servicio-integral-m.jpg" crc="4021923778" ref="phone>nuestros-servicios-control-human">
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-reclutamiento-personal-recurso-humano-m.jpg" crc="4187676193" ref="phone>nuestros-servicios-control-human">
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="bg-call-to-action-servicios-m.jpg" crc="4012586369" ref="phone>nuestros-servicios-control-human">
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="logo-footer-m.svg" crc="47185538" seo="true" ref="phone>index:phone>nosotros-control-human:phone>servicios-control-human:phone>evaluaciones-poligraficas-control-human-copia:phone>clientes-control-human:phone>aviso-de-privacidad:phone>contacto-control-human:phone>gracias:phone>nuestros-servicios-control-human">
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="nosotros-control-human" alt=""/>
+      <caption webpage="contacto-control-human" alt=""/>
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clientes-control-human" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="servicios-control-human" alt=""/>
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+    <file name="logo-footer-m_poster_.png" crc="3941038593" ref="phone>index:phone>contacto-control-human"/>
+    <file name="bg_evaluaciones-poligraficas-m.jpg" crc="4135733635" ref="phone>evaluaciones-poligraficas-control-human-copia">
+      <caption webpage="evaluaciones-poligraficas-control-human-copia" alt=""/>
+    </file>
+    <file name="bg-clientes-control-human-m.jpg" crc="5296726" ref="phone>clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="img-clientes-control-human-m.jpg" crc="308041593" ref="phone>clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-gubernamentales-m.svg" crc="56758210" seo="true" ref="phone>clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-gubernamentales-m_poster_.png" crc="182126267" ref="phone>clientes-control-human"/>
+    <file name="icon-instituciones-financieras-m.svg" crc="3972014576" seo="true" ref="phone>clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-instituciones-financieras-m_poster_.png" crc="326371493" ref="phone>clientes-control-human"/>
+    <file name="icon-seguridad-privada-m.svg" crc="256030223" seo="true" ref="phone>clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-seguridad-privada-m_poster_.png" crc="4204741279" ref="phone>clientes-control-human"/>
+    <file name="icon-casa-de-empeno-m.svg" crc="4073741402" seo="true" ref="phone>clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-casa-de-empeno-m_poster_.png" crc="525517790" ref="phone>clientes-control-human"/>
+    <file name="icon-automotrices-m.svg" crc="4241104644" seo="true" ref="phone>clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-automotrices-m_poster_.png" crc="3898787355" ref="phone>clientes-control-human"/>
+    <file name="icon-tiendas-de-autoservicio-m.svg" crc="42587464" seo="true" ref="phone>clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-tiendas-de-autoservicio-m_poster_.png" crc="4030044894" ref="phone>clientes-control-human"/>
+    <file name="icon-consultoria-recursos-humanos-m.svg" crc="236856355" seo="true" ref="phone>clientes-control-human">
+      <caption webpage="clientes-control-human" alt=""/>
+    </file>
+    <file name="icon-consultoria-recursos-humanos-m_poster_.png" crc="333365561" ref="phone>clientes-control-human"/>
+    <file name="bg-aviso-de-privacidad-m.jpg" crc="332012889" ref="phone>aviso-de-privacidad">
+      <caption webpage="aviso-de-privacidad" alt=""/>
+    </file>
+    <file name="bg-controles-de-confianza-m.jpg" crc="398109625" ref="phone>nuestros-servicios-control-human">
+      <caption webpage="nuestros-servicios-control-human" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="137561999" seo="true" mt="1549583434105" redirect="true"/>
+  <file name="nosotros-control-human.html" crc="398163340" seo="true" mt="1549583434105" redirect="true"/>
+  <file name="servicios-control-human.html" crc="3865831885" seo="true" mt="1549665697057" redirect="true"/>
+  <file name="clientes-control-human.html" crc="4228999852" seo="true" mt="1549583434105" redirect="true"/>
+  <file name="contacto-control-human.html" crc="354493308" seo="true" mt="1549941665421" redirect="true"/>
+  <file name="evaluaciones-poligraficas-control-human-copia.html" crc="356551798" seo="true" mt="1549927258341" redirect="true"/>
+  <file name="gracias.html" crc="3761194075" seo="true" mt="1549583434105" redirect="true"/>
+  <file name="aviso-de-privacidad.html" crc="140062197" seo="true" mt="1549583434105" redirect="true"/>
+</manifest>
